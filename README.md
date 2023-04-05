@@ -1,2 +1,1 @@
-# CIS-497-Project-4
-CIS 497 Project 4 and all future projects that relate to the same game
+Created using Unity version 2020.2.2f1
